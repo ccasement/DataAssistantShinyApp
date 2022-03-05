@@ -3173,7 +3173,7 @@ navbarPage("Data Assistant",
       # p("Copyright \uA9 2020-2021 Christopher J. Casement and Laura McSweeney."),
       p("Copyright \uA9 2020-2022 by Anonymous."),
       p("The license statement can be found",
-        a("here.", href = "https://opensource.org/licenses/MIT",
+        a("here.", href = "https://choosealicense.com/licenses/mit/",
           target = "_blank"
         )
       )
